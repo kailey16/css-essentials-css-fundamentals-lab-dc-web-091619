@@ -11,11 +11,10 @@ h1{
 img {
   display: block;
   margin: auto;
-  vertical-align: middle;
+  text-align: center;
 }
 
 nav a {
-  text-align: center;
   padding: 10px;
   background-color: green;
   margin: auto;
